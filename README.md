@@ -13,3 +13,4 @@ I looked at X, Y, Z
 
 * [Run my Colab Notebook](https://github.com/ArmandoReyesRepo/Data_Science_Demo_Sep_2023/blob/main/data_science_notebook.ipynb)
 * [A Full Data Science Notebook](https://github.com/paiml/minimal-python/blob/master/Chapter7_data_science.ipynb)
+* [Here is my raw data](https://github.com/ArmandoReyesRepo/Data_Science_Demo_Sep_2023/blob/main/covid-eda.csv)
