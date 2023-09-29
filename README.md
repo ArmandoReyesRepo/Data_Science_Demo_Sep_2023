@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/ArmandoReyesRepo/Data_Science_Demo_Sep_2023/actions/workflows/main.yml/badge.svg)](https://github.com/ArmandoReyesRepo/Data_Science_Demo_Sep_2023/actions/workflows/main.yml)
+
 # Data_Science_Demo_Sep_2023
 This is my portfolio project
 
